@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 520" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="20" x2="640" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D6ECFA"/>
+      <stop offset="1" stop-color="#F6FBFF"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="680" height="520" rx="24" fill="url(#bg)"/>
+  <rect x="70" y="285" width="230" height="130" rx="16" fill="#113250"/>
+  <rect x="380" y="255" width="230" height="150" rx="16" fill="#1B8CC8"/>
+  <circle cx="130" cy="422" r="30" fill="#16253B"/>
+  <circle cx="248" cy="422" r="30" fill="#16253B"/>
+  <circle cx="438" cy="422" r="30" fill="#16253B"/>
+  <circle cx="556" cy="422" r="30" fill="#16253B"/>
+  <rect x="95" y="205" width="130" height="92" rx="12" fill="#FF6A3D"/>
+  <rect x="406" y="182" width="130" height="92" rx="12" fill="#FF8B66"/>
+  <rect x="58" y="455" width="560" height="24" rx="12" fill="#C3D9EA"/>
+  <text x="90" y="150" fill="#113250" font-size="36" font-family="Arial, sans-serif" font-weight="700">Certified 24/7 Restoration Team</text>
+</svg>
