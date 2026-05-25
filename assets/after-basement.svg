@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Restored basement after remediation</title>
+  <desc id="desc">A clean, bright, dry basement after emergency restoration work.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8f2fb" />
+      <stop offset="1" stop-color="#c6ddee" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)" />
+  <rect x="0" y="530" width="1200" height="270" fill="#d8e6f3" />
+  <rect x="130" y="170" width="260" height="360" fill="#f5fbff" stroke="#aac5d8" stroke-width="4" />
+  <rect x="460" y="120" width="300" height="410" fill="#f8fcff" stroke="#a7c4d7" stroke-width="4" />
+  <rect x="840" y="200" width="220" height="330" fill="#f5fbff" stroke="#adc7d8" stroke-width="4" />
+  <path d="M180 630 L320 560 L450 620 L610 550 L770 610 L930 540 L1040 590" fill="none" stroke="#7bc46a" stroke-width="16" stroke-linecap="round" />
+  <text x="600" y="102" fill="#102f4a" text-anchor="middle" font-size="56" font-family="Segoe UI, Arial, sans-serif" font-weight="700">After</text>
+  <text x="600" y="704" fill="#20455f" text-anchor="middle" font-size="38" font-family="Segoe UI, Arial, sans-serif" font-weight="600">Restored, dry, and ready for normal use</text>
+</svg>

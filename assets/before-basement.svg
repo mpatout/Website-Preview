@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Flooded basement before restoration</title>
+  <desc id="desc">A dark flooded basement with standing water and emergency warning markers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4b5f78" />
+      <stop offset="1" stop-color="#253447" />
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3f7ba8" />
+      <stop offset="1" stop-color="#2d5978" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)" />
+  <rect x="0" y="480" width="1200" height="320" fill="url(#water)" opacity="0.92" />
+  <rect x="130" y="180" width="260" height="300" fill="#1e2a38" />
+  <rect x="460" y="130" width="300" height="350" fill="#1a2432" />
+  <rect x="840" y="210" width="220" height="270" fill="#1f2b3a" />
+  <circle cx="980" cy="620" r="96" fill="#f14d00" opacity="0.82" />
+  <text x="600" y="104" fill="#f3f8ff" text-anchor="middle" font-size="56" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Before</text>
+  <text x="600" y="700" fill="#fdfefe" text-anchor="middle" font-size="38" font-family="Segoe UI, Arial, sans-serif" font-weight="600">Active standing water and structural risk</text>
+</svg>
