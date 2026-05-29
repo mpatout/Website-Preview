@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="92" viewBox="0 0 420 92" role="img" aria-labelledby="title desc">
+  <title id="title">Summit Restoration logo</title>
+  <desc id="desc">Droplet icon with Summit Restoration wordmark.</desc>
+  <defs>
+    <linearGradient id="dropGrad" x1="18" y1="12" x2="42" y2="62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4fc3f7"/>
+      <stop offset="1" stop-color="#0d6fa8"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(8 8)">
+    <path d="M30 2C30 2 12 20 12 34c0 12.9 8.1 22 18 22s18-9.1 18-22C48 20 30 2 30 2z" fill="url(#dropGrad)" stroke="#102f4a" stroke-width="2"/>
+    <circle cx="24" cy="28" r="4" fill="#ffffff" opacity="0.38"/>
+  </g>
+  <text x="72" y="44" fill="#102f4a" font-family="Sora, Manrope, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="-0.3">Summit</text>
+  <text x="74" y="70" fill="#ff6a2f" font-family="Manrope, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.4">RESTORATION</text>
+</svg>
